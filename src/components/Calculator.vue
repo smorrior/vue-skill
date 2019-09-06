@@ -141,6 +141,6 @@
     }
   }
   .btn.double.colored {
-    color: #f46c36;
+    color: #f46c36;s
   }
 </style>
